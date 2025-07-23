@@ -55,3 +55,5 @@ Inventory & Merchandising: Retail buyers can use the "Number of Varieties" chart
 Pricing & Profitability Analysis: By cross-referencing the Sales Price chart with the Profitability chart, a business can identify brands that successfully maintain high prices and high profits, providing a model for success.
 
 6. Screenshots / Demos
+
+Show what the dashboard looks like - (https://github.com/Shivam-web12/Men-s-Tshirt-Dashboard-/blob/main/Snapshot%20Of%20Dashboard.png)
